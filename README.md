@@ -1,4 +1,4 @@
-# temaranhanateia
+# Tem Aranha na Teia!
 Tem Aranha na Teia!
 
 O jogo Tem Aranha na Teia! Foi criado por alunos da ETE Professor Urbano Gomes de Sá para concorrer a prêmios da EDUCA-PE GAME JAM.
